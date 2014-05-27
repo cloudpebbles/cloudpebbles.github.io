@@ -1,28 +1,46 @@
-<header class="site-header">
+<div id="header-container">
+  <div id="header" class="col-full">
 
-  <div class="wrap">
+    <div id="logo">
+      <span class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></span>
+      <span class="site-description">educational and useful iOS software</span>
+    </div><!-- /#logo -->
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <div id="navigation" class="fr">
+      <ul id="main-nav" class="nav fl"><li id="menu-item-713" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-713"><a href="{{ site.baseurl }}/">Home</a></li>
+        <!-- current_page_parent current_page_ancestor current-menu-ancestor current-menu-parent current-page-parent -->
+        <li id="menu-item-711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="{{ post_url apps }}">Apps</a>
+          <ul class="sub-menu">
+            <li id="menu-item-716" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ site.baseurl }}/apps/times-tables/">Times Tables</a></li>
+            <!-- current-menu-item page_item current_page_item page_item -->
+            <li id="menu-item-715" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ site.baseurl }}/apps/maths-facts/">Maths Facts</a></li>
+            <li id="menu-item-735" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ site.baseurl }}/apps/here-there/">Here &#038; There</a></li>
+            <li id="menu-item-719" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ site.baseurl }}/apps/roman-numerals/">Roman Numerals</a></li>
+            <li id="menu-item-720" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ site.baseurl }}/apps/learn-time/">Learn Time</a></li>
+            <li id="menu-item-718" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ site.baseurl }}/apps/hirakata-quiz/">HiraKata Quiz</a></li>
+          </ul>
+        </li>
+        <li id="menu-item-712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-712"><a href="{{ site.baseurl }}/about/">About</a></li>
+      </ul>
+      <ul class="rss fr">
+        <li class="sub-rss"><a href="http://www.cloudpebbles.com/feed/"><img src="{{ site.baseurl }}/images/ico-rss.png" alt="cloudpebbles" /></a></li>
+      </ul>
+    </div><!-- /#navigation -->
 
-    <nav class="site-nav">
-      <a href="#" class="menu-icon">
-        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-           viewBox="0 0 18 15" enable-background="new 0 0 18 15" xml:space="preserve">
-          <path fill="#505050" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0
-            h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
-          <path fill="#505050" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484
-            h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
-          <path fill="#505050" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0
-            c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
-        </svg>
-      </a>
-      <div class="trigger">
-        {% for page in site.pages %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        {% endfor %}
-      </div>
-    </nav>
+  </div><!-- /#header -->
+</div><!-- /#header-container -->
 
-  </div>
+<div id="shadow"></div>
 
-</header>
+{% if page.title %}
+<div id="title-container" class="col-full post">
+  <h1 class="title">{{ page.title }}</h1>
+  <!-- <div class="search_main">
+    <form method="get" class="searchform" action="{{ site.baseurl }}/" >
+      <input type="text" class="field s" name="s" value="Search..." onfocus="if (this.value == 'Search...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}" />
+      <input type="image" src="{{ site.baseurl }}/images/ico-search.png" class="search-submit" name="submit" value="Go" />
+    </form>
+    <div class="fix"></div>
+  </div> -->
+</div>
+{% endif %}

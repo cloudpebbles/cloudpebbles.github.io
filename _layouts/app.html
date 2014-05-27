@@ -1,0 +1,34 @@
+---
+layout: twocolumn
+---
+<div id="content" class="page col-full">
+
+  <div id="content-header">
+
+    <div id="breadcrumbs">
+      <div class="breadcrumb breadcrumbs woo-breadcrumbs"><div class="breadcrumb-trail"><span class="trail-before"><span class="breadcrumb-title">You are here:</span></span>
+        <a href="/" title="cloudpebbles" rel="home" class="trail-begin">Home</a>
+        <span class="sep">&rarr;</span> <a href="/apps/" title="Apps">Apps</a>
+        <span class="sep">&rarr;</span> <span class="trail-end">{{ page.title }}</span></div></div>
+    </div><!--/#breadcrumbs -->
+
+    <div class="fix"></div>
+
+  </div><!-- #content-header   -->
+
+  <div id="inner" class="col-full">
+
+    <div id="main" class="col-left">
+      <div class="page type-page status-publish hentry">
+
+        <div class="entry">
+          {{ content }}
+        </div><!-- /.entry -->
+
+      </div><!-- /.post -->
+    </div><!-- /#main -->
+
+    {% include sidebar.html %}
+
+  </div><!-- /#inner -->
+</div><!-- /#content -->

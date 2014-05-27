@@ -1,20 +1,72 @@
 ---
-layout: default
+layout: kaboodle
 ---
+<div id="content" class="col-full">
 
-<div class="home">
+  <div id="inner" class="col-full">
+    <div id="main" class="col-full">
 
-  <h1>Posts</h1>
+      <div id="latest-blog-posts">
 
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+{% for post in paginator.posts %}
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <div class="post type-post status-publish format-standard hentry">
 
-</div>
+    <div class="ico-cal alignleft"><div class="ico-day">{{ post.date | date: "%-d" }}</div><div class="ico-month">{{ post.date | date: "%b" }}</div></div>
+
+    <div class="details" style="margin-left:52px;">
+
+      <h2 class="title"><a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
+
+        <p class="post-meta">
+          <span class="post-author"><span class="small">By</span> cloudpebbles<!--<a href="http://www.cloudpebbles.com/author/admin/" title="Posts by cloudpebbles" rel="author">cloudpebbles</a>--></span>
+          <span class="post-meta-sep">&bull;</span>
+          <span class="post-date">{{ post.date | date: "%-d %B %Y" }}</span>
+          <!-- <span class="post-meta-sep">&bull;</span>
+          <span class="post-category"><a href="http://www.cloudpebbles.com/category/apps/roman-numerals-apps/" title="View all posts in Roman Numerals" rel="category tag">{{ post.categories }}</a></span>
+          <span class="post-meta-sep">&bull;</span>
+          <span class="comments"><span>Comments Off</span></span>-->
+        </p>
+
+        <div class="entry">
+          {{ post.excerpt }}
+        </div><!-- /.entry -->
+
+        <div class="post-more">
+          <span class="read-more"><a href="{{ post.url }}" title="Continue Reading &rarr;">Continue Reading &rarr;</a></span>
+        </div>
+
+      </div><!-- /.details -->
+    </div><!-- /.post -->
+
+{% endfor %}
+
+    <div class="pagination woo-pagination">
+      {% if paginator.previous_page %}
+      <a class="prev page-numbers" href="{{ paginator.previous_page_path }}">&larr; Prev</a>
+      {% endif %}
+
+      {% for i in (1..paginator.total_pages) %}
+        {% if i == paginator.page %}
+        <span class='page-numbers current'>{{ paginator.page }}</span>
+        {% else %}
+        {% if i == 1%}
+          <a class='page-numbers' href='/'>{{ i }}</a>
+        {% else %}
+          <a class='page-numbers' href='/page/{{ i }}/'>{{ i }}</a>
+        {% endif %}
+        {% endif %}
+      {% endfor %}
+
+      {% if paginator.next_page %}
+      <a class="next page-numbers" href="{{ paginator.next_page_path }}">Next &rarr;</a></div>
+      {% endif %}
+    </div><!-- /#latest-blog-posts -->
+
+    <div class="fix"></div>
+
+</div><!-- /#main -->
+
+
+</div><!-- /#inner -->
+</div><!-- /#content -->

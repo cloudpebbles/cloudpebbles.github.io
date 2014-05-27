@@ -1,14 +1,33 @@
 ---
-layout: default
+layout: twocolumn
 ---
-<div class="post">
+<div id="content" class="page col-full">
 
-  <header class="post-header">
-    <h1>{{ page.title }}</h1>
-  </header>
+  <div id="content-header">
 
-  <article class="post-content">
-  {{ content }}
-  </article>
+    <div id="breadcrumbs">
+      <div class="breadcrumb breadcrumbs woo-breadcrumbs"><div class="breadcrumb-trail"><span class="trail-before"><span class="breadcrumb-title">You are here:</span></span>
+        <a href="/" title="cloudpebbles" rel="home" class="trail-begin">Home</a>
+        <span class="sep">&rarr;</span> <span class="trail-end">{{ page.title }}</span></div></div>
+    </div><!--/#breadcrumbs -->
 
-</div>
+    <div class="fix"></div>
+
+  </div><!-- #content-header   -->
+
+  <div id="inner" class="col-full">
+
+    <div id="main" class="col-left">
+      <div class="page type-page status-publish hentry">
+
+        <div class="entry">
+          {{ content }}
+        </div><!-- /.entry -->
+
+      </div><!-- /.post -->
+    </div><!-- /#main -->
+
+    {% include sidebar.html %}
+
+  </div><!-- /#inner -->
+</div><!-- /#content -->
