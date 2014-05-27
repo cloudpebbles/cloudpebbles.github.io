@@ -2,6 +2,7 @@
 layout: app
 title: Learn Time
 app-id: 305241017
+ipad-app-id: 305241017
 gallery:
 - image: images/en3.5-1.png
   thumbnail: images/en3.5-1-150x150.png
