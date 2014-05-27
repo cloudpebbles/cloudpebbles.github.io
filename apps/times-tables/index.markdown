@@ -113,16 +113,16 @@ The following sound effect samples come from [Freesound.org](http://www.freesoun
 
 
 
-  * ClearingThroat_Female.wav (http://www.freesound.org/samplesViewSingle.php?id=34209) by acclivity (http://www.freesound.org/usersViewSingle.php?id=37876)
+  * [ClearingThroat_Female.wav](http://www.freesound.org/samplesViewSingle.php?id=34209) by [acclivity](http://www.freesound.org/usersViewSingle.php?id=37876)
 
 
-  * Sigh2.wav (http://www.freesound.org/samplesViewSingle.php?id=60669) by K1m218 (http://www.freesound.org/usersViewSingle.php?id=449668)
+  * [Sigh2.wav](http://www.freesound.org/samplesViewSingle.php?id=60669) by [K1m218](http://www.freesound.org/usersViewSingle.php?id=449668)
 
 
-  * timbre.wav (http://www.freesound.org/samplesViewSingle.php?id=9218) by melack (http://www.freesound.org/usersViewSingle.php?id=288)
+  * [timbre.wav](http://www.freesound.org/samplesViewSingle.php?id=9218) by [melack](http://www.freesound.org/usersViewSingle.php?id=288)
 
 
-  * scraping.mp3 (http://www.freesound.org/samplesViewSingle.php?id=58638) by morgantj (http://www.freesound.org/usersViewSingle.php?id=27178)
+  * [scraping.mp3](http://www.freesound.org/samplesViewSingle.php?id=58638) by [morgantj](http://www.freesound.org/usersViewSingle.php?id=27178)
 
 
-  * Approx 850 - Enthusiast Audience.wav (http://www.freesound.org/samplesViewSingle.php?id=31169) by lonemonk (http://www.freesound.org/usersViewSingle.php?id=230160)
+  * [Approx 850 - Enthusiast Audience.wav](http://www.freesound.org/samplesViewSingle.php?id=31169) by [lonemonk](http://www.freesound.org/usersViewSingle.php?id=230160)
