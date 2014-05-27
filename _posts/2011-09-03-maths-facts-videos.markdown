@@ -15,8 +15,4 @@ tags:
 - youtube
 ---
 
-Vidoes showing [Maths Facts](http://www.cloudpebbles.com/2011/08/29/maths-facts/) in operation have been posted to the [cloudpebbles channel](http://www.youtube.com/user/cloudpebbles) on YouTube, and the first ones have been included here.
-
-
-
-
+Vidoes showing [Maths Facts](/apps/maths-facts/) in operation have been posted to the [cloudpebbles channel](http://www.youtube.com/user/cloudpebbles) on YouTube, and the first ones have been included here.

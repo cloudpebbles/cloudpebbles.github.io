@@ -1,6 +1,7 @@
 ---
 layout: app
 title: Learn Time
+app-id: 305241017
 gallery:
 - image: images/en3.5-1.png
   thumbnail: images/en3.5-1-150x150.png
@@ -10,7 +11,7 @@ gallery:
   thumbnail: images/en3.5-3-150x150.png
 ---
 
-![LearnTime-placed](http://www.cloudpebbles.com/wp-content/uploads/2014/04/LearnTime-placed.png)
+![LearnTime-placed](/images/LearnTime-placed.png)
 
 Learn Time provides an interactive way to learn to tell the time on the iPhone or iPod Touch. It shows a colourful clock with multiple levels of difficulty that is fine for beginners and more advanced learners. To use it, just move the hands to the correct position and press the button to submit your answer. If the answer is incorrect you will be shown the correct answer.
 

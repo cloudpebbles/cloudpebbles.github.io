@@ -7,4 +7,4 @@ Welcome to the *cloudpebbles* website. Here you can find software for the iPhone
 
 ### Contact
 
-If you have any questions or problems please contact me via email at support@cloudpebbles.com
+If you have any questions or problems please contact me via email at [support@cloudpebbles.com](mailto:support@cloudpebbles.com)

@@ -14,4 +14,4 @@ tags:
 - update
 ---
 
-A new update to [Maths Facts](http://www.cloudpebbles.com/apps/maths-facts/) has been released and it should be available on the app store shortly. This fixes a bug in the fact families game that occurred when tiles where swapped over.
+A new update to [Maths Facts](/apps/maths-facts/) has been released and it should be available on the app store shortly. This fixes a bug in the fact families game that occurred when tiles where swapped over.

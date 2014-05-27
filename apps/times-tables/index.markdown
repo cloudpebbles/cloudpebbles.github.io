@@ -49,7 +49,7 @@ Fun way of learning the times tables (or multiplication tables) and division tab
 ### Questions or problems?
 
 
-If you have any questions about this program or you having problems with it please check the [Support](http://www.cloudpebbles.com/support/times-tables/) page or contact me via email at [support@cloudpebbles.com](mailto:support@cloudpebbles.com).
+If you have any questions about this program or you having problems with it please check the [Support](/support/times-tables/) page or contact me via email at [support@cloudpebbles.com](mailto:support@cloudpebbles.com).
 
 
 ### Features for children:
@@ -74,9 +74,7 @@ New to this version is progress tracking. This allows you to see how well the ch
 
   * two timed quizes (1 minute and 3 minutes)
 
-
   * two fixed number of questions quizes (30 questions and 100 questions)
-
 
   * and a 1-mistake-and-it's-over quiz
 
