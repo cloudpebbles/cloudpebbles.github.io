@@ -16,3 +16,6 @@ markdown: kramdown
 
 gauges: 5376261f8bfdf705fe000c51
 google: UA-84351-13
+
+gems:
+- jekyll-redirect-from

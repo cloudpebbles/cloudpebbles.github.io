@@ -1,4 +1,5 @@
 ---
+redirect_from: /apps/here-there/support/
 author: admin
 comments: false
 date: 2013-02-09 22:03:41+00:00
