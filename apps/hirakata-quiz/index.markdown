@@ -2,6 +2,7 @@
 layout: app
 title: HiraKata Quiz
 app-id: 301707850
+category: hirakata-quiz
 ---
 
 HiraKata Quiz provides an easy way of testing your knowledge of the hiragana and katakana and of learning them through repetition on your iPhone or iPod Touch. It is important to know hiragana and katakana if you are learning Japanese.

@@ -7,7 +7,7 @@ slug: email-information
 title: Email information
 wordpress_id: 642
 categories:
-- Website
+- website
 tags:
 - email
 - website

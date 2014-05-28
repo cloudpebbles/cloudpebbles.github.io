@@ -1,6 +1,6 @@
 ---
 layout: app
-slug: roman-numerals
+category: roman-numerals
 title: Roman Numerals
 app-id: 291773125
 app-description: Roman Numerals provides an easy way of converting Roman numerals into more understandable year numbers and vice versa. Use it when you cannot quite work out the age of a building or to resolve disputes about the year in which a TV programme was made.

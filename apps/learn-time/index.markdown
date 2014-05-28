@@ -1,6 +1,7 @@
 ---
 layout: app
 title: Learn Time
+category: learn-time
 app-id: 305241017
 ipad-app-id: 305241017
 gallery:

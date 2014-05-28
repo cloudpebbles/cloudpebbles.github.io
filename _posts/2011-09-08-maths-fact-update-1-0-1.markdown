@@ -7,7 +7,7 @@ slug: maths-fact-update-1-0-1
 title: Maths Fact update (1.0.1)
 wordpress_id: 671
 categories:
-- Maths Facts
+- maths-facts
 tags:
 - maths facts
 - number bonds

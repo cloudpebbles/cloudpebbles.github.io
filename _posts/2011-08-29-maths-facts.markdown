@@ -7,7 +7,7 @@ slug: maths-facts
 title: Maths Facts
 wordpress_id: 648
 categories:
-- Maths Facts
+- maths-facts
 tags:
 - maths facts
 - number bonds

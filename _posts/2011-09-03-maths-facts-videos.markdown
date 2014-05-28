@@ -7,7 +7,7 @@ slug: maths-facts-videos
 title: Maths Facts videos
 wordpress_id: 659
 categories:
-- Maths Facts
+- maths-facts
 tags:
 - maths facts
 - number bonds

@@ -7,7 +7,7 @@ slug: maths-facts-update-1-0-2
 title: Maths Facts update (1.0.2)
 wordpress_id: 674
 categories:
-- Maths Facts
+- maths-facts
 tags:
 - maths facts
 - update

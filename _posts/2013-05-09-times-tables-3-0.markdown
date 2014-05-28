@@ -7,7 +7,7 @@ slug: times-tables-3-0
 title: Times Tables 3.0
 wordpress_id: 751
 categories:
-- Times Tables
+- times-tables
 tags:
 - times tables
 - update

@@ -1,8 +1,8 @@
 ---
 layout: app
-slug: maths-facts
 title: Maths Facts
 app-id: 459281769
+category: maths-facts
 gallery:
 - image: images/Addition-Game.png
   thumbnail: images/Addition-Game-150x150.png

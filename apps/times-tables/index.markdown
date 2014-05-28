@@ -3,6 +3,7 @@ layout: app
 title: Times Tables
 app-id: 294523707
 ipad-app-id: 294523707
+category: times-tables
 gallery:
 - image: images/en-homeview.jpg
   thumbnail: images/en-homeview-150x150.jpg
