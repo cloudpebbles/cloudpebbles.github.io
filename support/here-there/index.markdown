@@ -6,7 +6,7 @@ date: 2013-02-09 22:03:41+00:00
 layout: page
 slug: support
 title: Here & There support
-wordpress_id: 730
+permalink: /support/here-there/
 ---
 
 This page contains a number of answers to questions that you might have.
