@@ -9,6 +9,6 @@ tags:
 - update
 ---
 
-A completely new version of Times Tables has been published. This version marks the start of a series of updates to this app. In particular, the players can compare their highscores with one another and choose which level they want to play a specific table.
+A completely new version of [Times Tables](/apps/times-tables/) has been published. This version marks the start of a series of updates to this app. In particular, the players can compare their highscores with one another and choose which level they want to play a specific table.
 
 In this version it is not possible to create a custom quiz or create a competition, but improved versions of these games will return.

@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Learn Time 2.0"
+date: 2014-05-29T10:44:33+02:00
+categories: learn-time
+---
+A completely new version of [Learn Time](/apps/learn-time/) has been published with new graphics and in particular a clearer way of asking questions and giving feedback to the player.
