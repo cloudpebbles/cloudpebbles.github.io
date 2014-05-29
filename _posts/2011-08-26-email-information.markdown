@@ -1,11 +1,7 @@
 ---
-author: admin
-comments: true
 date: 2011-08-26 21:55:26+00:00
 layout: post
-slug: email-information
 title: Email information
-wordpress_id: 642
 categories:
 - website
 tags:

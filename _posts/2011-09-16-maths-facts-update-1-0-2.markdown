@@ -1,11 +1,7 @@
 ---
-author: admin
-comments: true
 date: 2011-09-16 06:37:03+00:00
 layout: post
-slug: maths-facts-update-1-0-2
 title: Maths Facts update (1.0.2)
-wordpress_id: 674
 categories:
 - maths-facts
 tags:

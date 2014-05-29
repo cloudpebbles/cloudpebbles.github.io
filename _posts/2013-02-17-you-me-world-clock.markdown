@@ -1,11 +1,7 @@
 ---
-author: admin
-comments: true
 date: 2013-02-17 12:12:23+00:00
 layout: post
-slug: you-me-world-clock
 title: You & Me World Clock
-wordpress_id: 747
 categories:
 - here-there
 ---

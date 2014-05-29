@@ -1,11 +1,7 @@
 ---
-author: admin
-comments: true
 date: 2011-09-03 10:56:50+00:00
 layout: post
-slug: maths-facts-videos
 title: Maths Facts videos
-wordpress_id: 659
 categories:
 - maths-facts
 tags:

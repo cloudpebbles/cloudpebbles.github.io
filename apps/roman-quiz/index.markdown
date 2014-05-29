@@ -1,11 +1,8 @@
 ---
-author: admin
 comments: false
 date: 2009-03-05 22:21:56+00:00
 layout: page
-slug: roman-quiz
 title: Roman Quiz
-wordpress_id: 187
 ---
 
 Roman Numerals are not used very often very more, but they still can be found at the end of TV programmes or films, on buildings, and even in books. If you would like to learn how to read these numbers or perhaps you remember learning them at school, but now you cannot remember them anymore, then Roman Quiz can help you learn them.
@@ -21,16 +18,16 @@ If you find a number that you haven't learn yet then don't worry because there i
 
 
 
-	
+
   * 4 levels of difficulty that take you from single numerals to complicated numerals;
 
-	
+
   * tests your ability to convert to and from Roman Numerals;
 
-	
+
   * easy to use with clear results showing you where you went wrong;
 
-	
+
   * built in Roman <-> Arabic converter with auto-correction.
 
 

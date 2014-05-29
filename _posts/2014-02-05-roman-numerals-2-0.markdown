@@ -1,6 +1,4 @@
 ---
-author: admin
-comments: true
 date: 2014-02-05 13:32:28+00:00
 layout: post
 title: Roman Numerals 2.0

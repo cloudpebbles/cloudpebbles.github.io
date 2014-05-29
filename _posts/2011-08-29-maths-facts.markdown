@@ -1,11 +1,7 @@
 ---
-author: admin
-comments: true
 date: 2011-08-29 15:35:38+00:00
 layout: post
-slug: maths-facts
 title: Maths Facts
-wordpress_id: 648
 categories:
 - maths-facts
 tags:

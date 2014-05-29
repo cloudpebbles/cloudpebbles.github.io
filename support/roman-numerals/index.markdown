@@ -1,11 +1,7 @@
 ---
-author: admin
-comments: true
 date: 2014-01-29 06:11:13+00:00
 layout: page
-slug: roman-numerals
 title: Roman Numerals
-wordpress_id: 789
 ---
 
 This is the support page for [Roman Numerals](/apps/roman-numerals/).

@@ -1,11 +1,7 @@
 ---
-author: admin
-comments: true
 date: 2013-05-09 09:57:45+00:00
 layout: post
-slug: times-tables-3-0
 title: Times Tables 3.0
-wordpress_id: 751
 categories:
 - times-tables
 tags:

@@ -1,11 +1,7 @@
 ---
-author: admin
-comments: true
 date: 2011-08-23 12:09:51+00:00
 layout: post
-slug: cloudpebbles-website
 title: cloudpebbles website
-wordpress_id: 625
 categories:
 - website
 tags:
