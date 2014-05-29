@@ -1,5 +1,4 @@
 ---
-comments: false
 date: 2009-03-05 22:21:56+00:00
 layout: page
 title: Roman Quiz
@@ -14,21 +13,7 @@ If you find a number that you haven't learn yet then don't worry because there i
 
 ### Features:
 
-
-
-
-
-
   * 4 levels of difficulty that take you from single numerals to complicated numerals;
-
-
   * tests your ability to convert to and from Roman Numerals;
-
-
   * easy to use with clear results showing you where you went wrong;
-
-
   * built in Roman <-> Arabic converter with auto-correction.
-
-
-[![Available on the iPhone App Store](http://www.cloudpebbles.com/wp-content/uploads/2009/03/app_store_badge_0708.jpg)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=297366242&mt=8)
