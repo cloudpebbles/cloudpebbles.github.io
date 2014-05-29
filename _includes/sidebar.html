@@ -66,20 +66,12 @@
           <div class="quotes">
             <div class="quotes-content">
 
-              <div class="quote">
-                <blockquote><p>This app really helps me with my times tables! <img src="/images/icon_smile.gif" alt=":)" class="wp-smiley" /> </p></blockquote>
-                <cite>Cutie pie 626 (on Times Tables)</cite>
-              </div>
-
-              <div class="quote">
-                <blockquote><p>Perfect for solving those pesky clues involving Roman Numerals.</p></blockquote>
-                <cite>Xworddb (on Roman Numerals)</cite>
-              </div>
-
-              <div class="quote">
-                <blockquote><p>Great game especially when you want to relax.</p></blockquote>
-                <cite>Jana (on Times Tables)</cite>
-              </div>
+              {% for comment in site.data.comments %}
+                <div class="quote">
+                  <blockquote><p>{{ comment.quote }}</p></blockquote>
+                  <cite>{{ comment.name }} (on {{ comment.app }})</cite>
+                </div>
+              {% endfor %}
 
             </div><!--/.quotes-content-->
 
