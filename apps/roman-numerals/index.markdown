@@ -1,9 +1,9 @@
 ---
 layout: app
 category: roman-numerals
-title: Roman Numerals
+title: Roman Numerals | Converter
 app-id: 291773125
-app-description: Roman Numerals provides an easy way of converting Roman numerals into more understandable year numbers and vice versa. Use it when you cannot quite work out the age of a building or to resolve disputes about the year in which a TV programme was made.
+app-description: Provides an easy way of converting Roman numerals into more understandable numbers and vice versa. Use it when you cannot quite work out the age of a building or to resolve disputes about the year in which a TV programme was made.
 gallery:
 - image: images/4-1.png
   thumbnail: images/4-1-150x150.png
@@ -13,7 +13,7 @@ gallery:
   thumbnail: images/4-3-150x150.png
 ---
 
-Roman Numerals provides an easy way of converting Roman numerals into more understandable year numbers and vice versa. Use it when you cannot quite work out the age of a building or to resolve disputes about the year in which a TV programme was made.
+`Roman Numerals | Converter` provides an easy way of converting Roman numerals into more understandable numbers and vice versa. Use it when you cannot quite work out the age of a building or to resolve disputes about the year in which a TV programme was made.
 
 To use it just choose whether you want to convert from Roman numerals or from Arabic numerals and then type in the year and the corresponding value will appear. There are preferences for choosing how large numbers appear, enabling autocorrection and for choosing which order the roman numerals appear in on the keyboard.
 
@@ -23,9 +23,10 @@ To use it just choose whether you want to convert from Roman numerals or from Ar
   * Roman and Arabic converter;
   * support for large numbers;
   * easy to use Roman keyboard;
-  * automatically converts Roman Numerals (e.g. IIII -> IV) and ignores invalid ones;
+  * automatically converts Roman Numerals (e.g. VV -> X) and ignores invalid ones;
   * Roman Numerals can be shown in numerical or alphabetical order.
   * an optional Calculator to calculate MMII-XV*L _(in-app purchase)_
+  * an optional Calendar to convert any date into Roman numerals _(in-app purchase)_
 
 ### Support
 
