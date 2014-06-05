@@ -1,7 +1,7 @@
 ---
 layout: app
 category: roman-numerals
-title: Roman Numerals | Converter
+title: "Roman Numerals : Converter"
 app-id: 291773125
 app-description: Provides an easy way of converting Roman numerals into more understandable numbers and vice versa. Use it when you cannot quite work out the age of a building or to resolve disputes about the year in which a TV programme was made.
 gallery:
@@ -13,7 +13,7 @@ gallery:
   thumbnail: images/4-3-150x150.png
 ---
 
-`Roman Numerals | Converter` provides an easy way of converting Roman numerals into more understandable numbers and vice versa. Use it when you cannot quite work out the age of a building or to resolve disputes about the year in which a TV programme was made.
+**Roman Numerals : Converter** provides an easy way of converting Roman numerals into more understandable numbers and vice versa. Use it when you cannot quite work out the age of a building or to resolve disputes about the year in which a TV programme was made.
 
 To use it just choose whether you want to convert from Roman numerals or from Arabic numerals and then type in the year and the corresponding value will appear. There are preferences for choosing how large numbers appear, enabling autocorrection and for choosing which order the roman numerals appear in on the keyboard.
 
@@ -30,7 +30,7 @@ To use it just choose whether you want to convert from Roman numerals or from Ar
 
 ### Support
 
-There is a support page [here](http://www.cloudpebbles.com/support/roman-numerals/) that answers some common questions that you might have with the app.
+There is a support page [here](/support/roman-numerals/) that answers some common questions that you might have with the app.
 
 
 ### Large numbers
