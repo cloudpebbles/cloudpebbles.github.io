@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: jumbotron-narrow
 slug: privacy
 title: Privacy
 ---
