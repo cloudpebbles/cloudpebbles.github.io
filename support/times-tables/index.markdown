@@ -1,7 +1,7 @@
 ---
 date: 2013-06-05 08:18:34+00:00
 layout: page
-title: Times Tables
+title: Support for Times Tables
 ---
 
 This page contains a number of answers to questions that you might have.

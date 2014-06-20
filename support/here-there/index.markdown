@@ -2,7 +2,7 @@
 redirect_from: /apps/here-there/support/
 date: 2013-02-09 22:03:41+00:00
 layout: page
-title: Here & There support
+title: Support for Here & There
 permalink: /support/here-there/
 ---
 

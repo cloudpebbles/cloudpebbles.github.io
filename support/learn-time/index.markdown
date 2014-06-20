@@ -1,7 +1,7 @@
 ---
 date: 2014-04-01 10:02:49+00:00
 layout: page
-title: Learn Time
+title: Support for Learn Time
 ---
 
 This is the support page for [Learn Time](http://www.cloudpebbles.com/apps/learn-time/).
