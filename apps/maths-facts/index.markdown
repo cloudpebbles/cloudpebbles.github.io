@@ -44,8 +44,4 @@ If you have any questions about this app or you having problems with it please c
 
 ### Videos
 
-<p><iframe src="http://www.youtube.com/embed/yOJmk-bna_E" height="345" width="560" frameborder="0"></iframe></p>
-
-### Gallery
-
-{% include gallery.html %}
+<iframe width="560" height="315" src="//www.youtube.com/embed/YU39Q_mAbkA" frameborder="0" allowfullscreen></iframe>
