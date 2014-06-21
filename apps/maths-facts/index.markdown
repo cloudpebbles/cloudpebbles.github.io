@@ -39,9 +39,4 @@ We will be adding more games and quizzes with free updates, so please contact us
 ### Questions or problems?
 
 
-If you have any questions about this app or you having problems with it please contact us via email at [support@cloudpebbles.com](mailto:support@cloudpebbles.com).
-
-
-### Videos
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/YU39Q_mAbkA" frameborder="0" allowfullscreen></iframe>
+If you have any questions about this app or you having problems with it please contact us via email at [support@cloudpebbles.com](mailto:support@cloudpebbles.
