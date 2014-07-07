@@ -1,5 +1,6 @@
 ---
-layout: app
+layout: redirect
+redirect-target: http://www.cadigatt.com/romannums/
 category: roman-numerals
 title: "Roman Numerals | Converter"
 app-id: 291773125

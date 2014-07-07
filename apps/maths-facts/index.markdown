@@ -1,5 +1,6 @@
 ---
-layout: app
+layout: redirect
+redirect-target: http://www.cadigatt.com/mathsfacts/
 title: Maths Facts
 app-id: 459281769
 category: maths-facts

@@ -1,5 +1,6 @@
 ---
-layout: app
+layout: redirect
+redirect-target: http://www.cadigatt.com/learntime/
 title: Learn Time
 category: learn-time
 app-id: 305241017
