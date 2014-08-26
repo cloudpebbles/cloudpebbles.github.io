@@ -1,5 +1,6 @@
 ---
-layout: app
+layout: redirect
+redirect-target: http://www.cadigatt.com/herethere/
 title: Here & There
 app-id: 601750080
 description: Is your partner on the other side of the world or do you have colleagues, family or friends in another continent? Are you trying to remember if it is morning there or even if they are still asleep? This app can help you If you need to keep track of what time it is in another part of the world and easily see when you are both available

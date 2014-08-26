@@ -1,5 +1,6 @@
 ---
-layout: app
+layout: redirect
+redirect-target: http://www.cadigatt.com/timestables/
 title: Times Tables
 app-id: 294523707
 ipad-app-id: 294523707
